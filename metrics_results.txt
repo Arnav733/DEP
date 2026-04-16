@@ -1,0 +1,3 @@
+Image: Tr-pi_274.jpg
+PSNR: 52.0476 dB
+SSIM: 0.997550
